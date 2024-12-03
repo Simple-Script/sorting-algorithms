@@ -20,7 +20,7 @@ void customSort(std::vector<int>& arr) {
 }
 
 int main() {
-    std::vector<int> numbers = {5, 3, 1, 4, 2};
+    std::vector<int> numbers = {5, 3, 9, 8, 6, 2, 7, 4, 1};
     
     std::cout << "Initial array: ";
     display(numbers);

@@ -4,15 +4,15 @@ These are my sorting algorithms. I built these because I am learning c++. I made
 
 ## Installation
 
-Click [bogosort](https://Simple-Script.github.io/sorting-algorithms/bogosort.py) to install bogosort or use the bash command below.
+Click [bogosort](https://Simple-Script.github.io/sorting-algorithms/bogosort.cpp) to install bogosort or use the bash command below.
 
 ```bash
-Invoke-WebRequest 'https://raw.githubusercontent.com/Simple-Script/sorting-algorithms/main/bogosort.py' -OutFile ./bogosort.py
+Invoke-WebRequest 'https://raw.githubusercontent.com/Simple-Script/sorting-algorithms/main/bogosort.cpp' -OutFile ./bogosort.cpp
 ```
-Click [stagesort](https://Simple-Script.github.io/sorting-algorithms/stagesort.py) to install stagesort or use the bash command below.
+Click [stagesort](https://Simple-Script.github.io/sorting-algorithms/stagesort.cpp) to install stagesort or use the bash command below.
 
 ```bash
-Invoke-WebRequest 'https://raw.githubusercontent.com/Simple-Script/sorting-algorithms/main/stagesort.py' -OutFile ./bogosort.py
+Invoke-WebRequest 'https://raw.githubusercontent.com/Simple-Script/sorting-algorithms/main/stagesort.cpp' -OutFile ./bogosort.cpp
 ```
 
 ## How to use

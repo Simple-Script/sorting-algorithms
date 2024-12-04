@@ -11,6 +11,10 @@ Invoke-WebRequest 'https://raw.githubusercontent.com/Simple-Script/sorting-algor
 ```
 Click [stagesort](https://Simple-Script.github.io/sorting-algorithms/stagesort.py) to install stagesort or use the bash command below.
 
+```bash
+Invoke-WebRequest 'https://raw.githubusercontent.com/Simple-Script/sorting-algorithms/main/stagesort.py' -OutFile ./bogosort.py
+```
+
 ## How to use
 
 Run these scripts in a compiler online or application. The output should be shown.

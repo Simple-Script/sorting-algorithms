@@ -26,7 +26,7 @@ void bogosort(std::vector<int>& arr) {
 }
 
 int main() {
-    std::vector<int> arr = {3, 5, 1, 2, 5};
+    std::vector<int> arr = {3, 4, 1, 2, 5};
     bogosort(arr);
     return 0;
 }
